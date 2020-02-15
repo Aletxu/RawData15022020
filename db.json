@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "id": 1, "name": "Cecilia Welch", "email": "heather_keeling@gottlieb.ca", "time": "01:06AM", "phone": "215-593-5846", "city":"South Mariane", "status":"Sent"},
+    { "id": 2, "name": "Sara Glover", "email": "sara_glover@gottlieb.ca", "time": "02:03AM", "phone": "315-593-5846", "city":"Bilbao", "status":"Sent"},
+    { "id": 3, "name": "Harriett Morgan", "email": "harriett_morgan@gottlieb.ca", "time": "08:06AM", "phone": "666-593-5846", "city":"Tokyo", "status":"Not Sent"}
+  ]
+}
